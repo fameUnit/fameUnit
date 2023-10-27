@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @fameUnit
+- 👀 Currently investigating into Competitive Programming
+- 🌱 Looking for projects I can work on with other programmers
